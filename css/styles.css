@@ -1,0 +1,147 @@
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-top-style: dotted;
+  border-width: 6px;
+  color: grey;
+  border-bottom: none;
+  width: 4%;
+  margin: 5px auto;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #30cec3;
+  padding: 30px 0 20px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ed);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ed);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ed);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ed);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ed);
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 30px 0 20px 0;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.header {
+  width: 15%;
+  margin: 50px auto 5px auto;
+}
+
+.image1 {
+  max-width: 250px;
+  max-height: 350px;
+}
+
+.image2 {
+  max-width: 100px;
+  max-height: 50px;
+  float: left;
+}
+
+.intro {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.middle-container {
+  margin: 75px 0 10px 0;
+}
+
+.profile-img {
+  width: 17%;
+}
+
+.skill-row {
+  line-height: 2;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.touch {
+  color: white;
+}
